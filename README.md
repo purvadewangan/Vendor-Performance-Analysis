@@ -96,7 +96,7 @@ This approach ensured accurate processing of large datasets and reliable insight
 <br>
  <br>
 
-📌 **Business Insights by Question**
+**Business Insights by Question**
 1. Identify Brands Needing Promotion or Pricing Adjustment 
 
 - *198 brands show low sales but strong margins—clear opportunities for marketing or pricing optimization.*
